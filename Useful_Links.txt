@@ -11,3 +11,4 @@ https://pennylane.ai/search/?contentType=DEMO&categories=quantum%20machine%20lea
 https://youtube.com/playlist?list=PL80kAHvQbh-otq6Qoi6mwSJAWhT3Rhfjq&si=7fm2WZORAYRZku8H
 https://www.youtube.com/watch?v=uDAAi5aQbMU
 https://arxiv.org/pdf/1803.07128.pdf
+https://medium.com/@monocosmo77/introduction-to-quantum-kernels-2d559da5e100
