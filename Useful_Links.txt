@@ -1,0 +1,13 @@
+https://medium.com/@roysuman088/unveiling-the-power-of-quantum-kernel-based-machine-learning-with-qiskit-8436b9ba41fb
+https://qiskit-community.github.io/qiskit-machine-learning/tutorials/03_quantum_kernel.html
+https://www.youtube.com/watch?v=GVhCOTzAkCM
+https://github.com/qiyaoliang/Quantum-Deep-Learning
+quantum nlp: https://youtu.be/Q4hICz6bbJ8?feature=shared
+https://github.com/salcc/QuantumTransformers
+quantum nlp: https://medium.com/qiskit/an-introduction-to-quantum-natural-language-processing-7aa4cc73c674
+https://arxiv.org/pdf/2311.11952.pdf
+https://pennylane.ai/qml/demos/tutorial_kernel_based_training/
+https://pennylane.ai/search/?contentType=DEMO&categories=quantum%20machine%20learning&sort=publication_date
+https://youtube.com/playlist?list=PL80kAHvQbh-otq6Qoi6mwSJAWhT3Rhfjq&si=7fm2WZORAYRZku8H
+https://www.youtube.com/watch?v=uDAAi5aQbMU
+https://arxiv.org/pdf/1803.07128.pdf
