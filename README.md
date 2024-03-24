@@ -13,3 +13,6 @@ Kernel-based methods are a cornerstone of classical machine learning, and quantu
 - Integration with classical SVM frameworks
 - Examples using simulated quantum computing environments
 - Performance analysis and comparisons with classical approaches
+
+# Team
+-Aryaman, Soham, Sanidhya, Anshika
