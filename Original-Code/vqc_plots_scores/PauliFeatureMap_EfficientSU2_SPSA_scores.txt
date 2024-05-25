@@ -1,0 +1,4 @@
+Performance Metrics
+========================================
+Training Scores - Accuracy: 0.85, Precision: 0.85, Recall: 0.81, F1-Score: 0.83
+Test Scores - Accuracy: 0.79, Precision: 0.76, Recall: 0.78, F1-Score: 0.77
