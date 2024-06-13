@@ -75,11 +75,14 @@ The performance of the quantum-enhanced SVM is compared with classical SVM on se
 
 **Breast Cancer Dataset:**
 
-![Breast Cancer Results](images/breast_cancer_results.png)
+![image](https://github.com/tenseisoham/QuantumML/assets/125657161/911441c8-bb29-4005-86f5-2f1c930dc5c0)
+
 
 **Diabetes Dataset:**
 
-![Diabetes Results](images/diabetes_results.png)
+![image](https://github.com/tenseisoham/QuantumML/assets/125657161/1c5a61eb-973f-4c17-9ce4-8bdc34112d9e)
+
+
 
 
 ## Conclusion
